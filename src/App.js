@@ -84,10 +84,13 @@ function App() {
   //     window.nc.publish('exit', { id: me })
   //   }
   // }
-
+  
   // add an entry to the document
   function addEntry (s) {
-    console.log(s);
+    console.log(s)
+    // const p = document.createElement('pre')
+    // p.appendChild(document.createTextNode(s))
+    // document.getElementById('chats').appendChild(p)
   }
 
 
