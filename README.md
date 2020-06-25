@@ -14,4 +14,4 @@ and in another terminal
 Run:
 npn run start-http
 
-You will be able to communicate between two or more browser windows on your machine, the messages sent can be seen in the console of the browsers, kindly continue with this or maybe try a different approach.
+You will be able to communicate between two or more browser windows on your machine, the messages sent can be seen in the console of the browsers, displaying them in the browser window itslef is what remains.
